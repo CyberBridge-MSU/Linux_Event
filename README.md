@@ -11,4 +11,3 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 
 [LabEx](https://labex.io/labs/linux-your-first-linux-lab-270253)
 
-**Our presentation is also provided above, feel free to follow along** 
