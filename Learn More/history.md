@@ -26,11 +26,7 @@ Because UNIX was **distributed with its source code**, organizations could adapt
 - **HP-UX** (Hewlett-Packard)
 - **Sun Solaris** (Sun Microsystems)
 - **Xenix** (Yes, even Microsoft had a UNIX variant!)
-
-**See UNIX in action!**  
-- [UNIX V0 running on original hardware](https://www.youtube.com/watch?v=pvaPaWyiuLA)  
-- [1982 UNIX promotional video](https://youtu.be/tc4ROCJYbm0)
-
+ 
 ### The Three Layers of UNIX
 A UNIX-based OS has three major components:
 1. **The Kernel** – The "heart" that manages hardware.
@@ -124,7 +120,8 @@ Linux powers **everything** from servers to phones. Some key areas include:
 - **UNIX & Linux History**: [A Brief History of Linux](https://opensource.com/article/18/9/linux-history)  
 - **Richard Stallman & GNU**: [GNU Project](https://www.gnu.org/)  
 - **Open Source Movement**: [Open Source Initiative](https://opensource.org/)  
-- **Linus Torvalds' Announcement**: [Linux Kernel Archives](https://www.kernel.org/)  
+- **Linus Torvalds' Kernels**: [Linux Kernel Archives](https://www.kernel.org/)
+- **A Fun Watch**: [1982 UNIX promotional video](https://youtu.be/tc4ROCJYbm0)
 
 ---
 
