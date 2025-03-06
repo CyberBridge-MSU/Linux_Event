@@ -48,7 +48,7 @@ Richard Stallman believed software should be **free** (as in freedom, not just p
 3. **The GNU General Public License (GPL)** (1989) – A legal framework ensuring software remains free.
 
 **Fun Fact:**  
-GNU stands for "**GNU is Not Unix**"—a recursive joke referencing its UNIX compatibility.
+GNU stands for "**GNU is Not Unix**"—a joke referencing its UNIX compatibility.
 
 ### The GNU System
 The GNU Project created key components for a free operating system:
