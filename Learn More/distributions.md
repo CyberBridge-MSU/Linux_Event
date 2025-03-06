@@ -62,7 +62,7 @@ Ubuntu is one of the most beginner-friendly Linux distributions, widely used for
 
 ---
 
-## 3. CentOS / RHEL
+## 3. CentOS
 ```bash
 # Install a package
 yum install package
@@ -78,13 +78,19 @@ passwd username
 ```
 
 ### Description
-CentOS (discontinued) and Red Hat Enterprise Linux (RHEL) are widely used in enterprise environments due to their security and long-term support.
+CentOS, a community-driven RHEL distribution, is widely used in enterprise environments due to its security, stability, and long-term support. It is also highly compatible with RHEL, its more robust predecessor. 
 
 #### Applications & Industry Usage
 - **Enterprise Servers** (Corporate IT infrastructure)
 - **Cloud Computing** (Red Hat OpenShift, Kubernetes)
 - **Database Management** (MySQL, PostgreSQL, Oracle)
 
+#### CentOS/RHEL Resume Building
+- Learn **package management** (dnf, yum)
+- Enterprise **server administration** (systemctl, firewalld)
+- Basics of **SELinux security policies**
+- **Networking** (ip, firewalld, nmcli)
+- Red Hat certifications (RHCSA, RHCE) can also be a great boost
 ---
 
 ## 4. Arch Linux
