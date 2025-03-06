@@ -1,20 +1,17 @@
 # CyberBridge Linux Tutorial for Beginners
 
 ## Introduction
-Welcome to the **CyberBridge** guide to Linux distributions and industry applications! This guide is designed for users who have little to no experience with Linux and want to get started with the basics. We will be working with **Ubuntu** and **macOS**.
+Welcome to the **CyberBridge** guide to Linux distributions and industry applications! Here you can find all the most popular distributions of Linux, the industries that are utilizing them, and where to learn more about each. Becoming proficient in any one of these versions is a great resume item.
 
 ## Table of Contents
 1.
 
 ---
 
-## 1. Prereading, (Industries that use Linux, why, what do they use it for, what are good resume items relating to Linux distributions)
-Before doing anything in Linux, let’s go over a few fundamental commands:
-```bash
-blah blah blah blah 
-```
+## 1. Prereading
+Industries that use Linux, why, what do they use it for
+Why you should learn Linux as it relates to experience and resume-building items
 
-### I'm not sure if I need this here
 
 ---
 
