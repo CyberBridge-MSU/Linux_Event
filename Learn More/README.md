@@ -15,5 +15,5 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 - **Arch Linux**: [Arch Wiki](https://wiki.archlinux.org/), [Arch Linux Installation Guide](https://wiki.archlinux.org/title/installation_guide)
 - **Kali Linux**: [Kali Linux Docs](https://www.kali.org/docs/), [Offensive Security Training](https://www.offsec.com/)
 - **RHEL**: [Red Hat Enterprise Linux Docs](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
-- [Linux Networking Basics](https://www.tecmint.com/linux-networking-commands/)
-- [Linux Security Guides](https://www.linux.com/?s=security+guide)
+- **Networking Commands**: [Linux Networking Basics](https://www.tecmint.com/linux-networking-commands/)
+- **Various Security Guides**: [Linux Security Guides](https://www.linux.com/?s=security+guide)
