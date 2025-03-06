@@ -25,3 +25,6 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 - **Linux Documentation**: [Linux Documentation Project](https://tldp.org/)
 - **System Administration Guide**: [Red Hat Linux SysAdmin Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
 - **DevOps Tools & Automation**: [Ansible Documentation](https://docs.ansible.com/)
+- **Another Cheat Sheet**: [Linux Command Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- **Git**: [Git Documentation](https://git-scm.com/doc)
+- **Docker**: [Docker Docs](https://docs.docker.com/)
