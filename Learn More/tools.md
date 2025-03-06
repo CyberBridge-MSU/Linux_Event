@@ -79,6 +79,9 @@ git init
 # Clone a repository
 git clone https://github.com/user/repo.git
 
+# Add an origin
+git remote add origin https://github.com/user/repo.git
+
 # Add files to staging
 git add filename
 
