@@ -206,7 +206,7 @@ sudo systemctl restart fail2ban
 
 ## 8. Additional Resources
 - [Linux Networking Basics](https://www.tecmint.com/linux-networking-commands/)
-- [Linux Security Guides]([https://www.linux.com/tutorials/linux-security-guide/](https://www.linux.com/?s=security+guide))
+- [Linux Security Guides](https://www.linux.com/?s=security+guide)
 
 ---
 
