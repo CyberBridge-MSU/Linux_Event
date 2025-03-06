@@ -1,4 +1,4 @@
-# CyberBridge Linux System Administration Guide
+# CyberBridge Linux System Admin Guide
 
 ## Introduction
 System administration is a core skill for managing Linux environments. This guide covers user management, process handling, service management, system monitoring, and security best practices for maintaining Linux servers and workstations.
