@@ -205,7 +205,7 @@ crontab -l
 ---
 
 ## 8. Additional Resources
-- [Linux Sysadmin Guide](https://www.tecmint.com/category/linux-administration/)
+- [Cron Translator]([https://www.tecmint.com/category/linux-administration/](https://www.uptimia.com/cron-expression-meaning/every-day))
 - [Linux Command Manual](https://linux.die.net/man/)
 
 ---
