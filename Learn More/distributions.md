@@ -174,6 +174,13 @@ RHEL is a commercial Linux distribution designed for enterprise environments, of
 - **Cloud Computing** (Red Hat OpenShift, hybrid cloud solutions)
 - **Software Development & DevOps** (Container orchestration, CI/CD pipelines)
 
+#### RHEL Resume Building
+- Learn Red Hat **system administration** (dnf, firewalld, SELinux)
+- Understand **virtualization** and **containerization** (Podman, OpenShift)
+- Master enterprise **Linux security** and **hardening**
+- Get a Red Hat certification (RHCSA, RHCE) for career advancement
+- Automate **system administration** tasks using Ansible
+
 ---
 
 ## 7. Additional Resources
