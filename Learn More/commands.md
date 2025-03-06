@@ -209,7 +209,7 @@ greet Linux
 ## 8. Additional Resources
 - **Linux Command Manual**: [man pages](https://linux.die.net/man/)
 - **Bash Scripting Guide**: [GNU Bash Guide](https://www.gnu.org/software/bash/manual/)
-- **Networking Commands**: [Linux Networking](https://www.tecmint.com/linux-network-commands/)
+- **Commands Cheat Sheet**: [Linux Networking](https://www.tecmint.com/linux-commands-cheat-sheet/)
 
 ---
 
