@@ -6,7 +6,7 @@ Welcome to the **CyberBridge** guide to Linux distributions and industry applica
 ## Table of Contents
 1. Prereading  
 2. Ubuntu  
-3. CentOS / RHEL  
+3. CentOS 
 4. Arch Linux  
 5. Kali Linux  
 6. Red Hat Enterprise Linux (RHEL)  
