@@ -22,3 +22,6 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 - **Translate Cron to Natural Language**: [Cron Translator](https://www.uptimia.com/cron-expression-meaning/every-day)
 - **Practice**: [OverTheWire Wargames](https://overthewire.org/wargames/)
 - **Labs**: [Linux Hands-on Labs](https://linuxacademy.com/)
+- **Linux Documentation**: [Linux Documentation Project](https://tldp.org/)
+- **System Administration Guide**: [Red Hat Linux SysAdmin Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
+- **DevOps Tools & Automation**: [Ansible Documentation](https://docs.ansible.com/)
