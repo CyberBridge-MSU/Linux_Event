@@ -19,3 +19,4 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 - **Various Security Guides**: [Linux Security Guides](https://www.linux.com/?s=security+guide)
 - **GNU Bash Manual**: [Bash Guide](https://www.gnu.org/software/bash/manual/)
 - **Bash Scripting for Beginners**: [Linux Shell Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+- **Translate Cron to Natural Language**: [Cron Translator](https://www.uptimia.com/cron-expression-meaning/every-day)
