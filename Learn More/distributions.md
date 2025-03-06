@@ -53,6 +53,13 @@ Ubuntu is one of the most beginner-friendly Linux distributions, widely used for
 - **Software Development** (Programming, Web Servers, Containers)
 - **Education & Research** (Universities, AI/ML development)
 
+### Ubunti Resume Building
+- Learn **package management** (apt)
+- Understand **systemd service management** (systemctl)
+- Basics of **user and permission management** (chmod, chown)
+- **Cloud deployment** with Ubuntu-based servers (AWS, Azure, GCP)
+- **Troubleshooting and scripting** in Bash
+
 ---
 
 ## 3. CentOS / RHEL
