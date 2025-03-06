@@ -17,3 +17,5 @@ Make sure to check out our [Roadrunnerlink](https://roadrunnerlink.msudenver.edu
 - **RHEL**: [Red Hat Enterprise Linux Docs](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/)
 - **Networking Commands**: [Linux Networking Basics](https://www.tecmint.com/linux-networking-commands/)
 - **Various Security Guides**: [Linux Security Guides](https://www.linux.com/?s=security+guide)
+- **GNU Bash Manual**: [Bash Guide](https://www.gnu.org/software/bash/manual/)
+- **Bash Scripting for Beginners**: [Linux Shell Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
