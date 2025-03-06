@@ -213,4 +213,4 @@ greet Linux
 
 ---
 
-This guide provides a foundation in Linux commands that are essential for system administration, development, and troubleshooting. Mastering these will help solidify your Linux skills for real-world applications and job interviews!
+This guide provides a foundation in Linux commands that are essential for system administration, development, and troubleshooting. Mastering these will help solidify your Linux skills for real-world applications and job interviews.
