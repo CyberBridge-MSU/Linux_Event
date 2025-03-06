@@ -1,7 +1,7 @@
 # CyberBridge Linux Tutorial for Beginners
 
 ## Introduction
-Welcome to this beginner-friendly Linux tutorial, brought to you by **CyberBridge**! This guide is designed for users who have little to no experience with Linux and want to get started with the basics. We will be working with **Ubuntu** and **macOS**.
+Welcome to the **CyberBridge** guide to Linux distributions and industry applications! This guide is designed for users who have little to no experience with Linux and want to get started with the basics. We will be working with **Ubuntu** and **macOS**.
 
 ## Table of Contents
 1.
