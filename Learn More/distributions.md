@@ -91,6 +91,7 @@ CentOS, a community-driven RHEL distribution, is widely used in enterprise envir
 - Basics of **SELinux security policies**
 - **Networking** (ip, firewalld, nmcli)
 - Red Hat certifications (RHCSA, RHCE) can also be a great boost
+
 ---
 
 ## 4. Arch Linux
@@ -113,6 +114,13 @@ Arch Linux is a rolling-release distribution favored by advanced users due to it
 - **Cybersecurity** (Kali Linux is derived from Debian, but many security professionals use Arch as well)
 - **Power Users & Enthusiasts** (Ideal for those wanting full control over their system)
 
+#### Arch Resume Building
+- Master **manual system setup** and **configuration**
+- Learn **advanced package management** (pacman, yay)
+- Automate tasks using **Bash scripting**
+- **Customize** and **manage the boot process** (GRUB, EFI, systemd)
+- **Troubleshooting** deep-level Linux issues
+
 ---
 
 ## 5. Kali Linux
@@ -134,6 +142,13 @@ Kali Linux is a Debian-based distribution designed for penetration testing and e
 - **Cybersecurity & Ethical Hacking** (Penetration testing, vulnerability assessment)
 - **Digital Forensics** (Investigating cybercrime, malware analysis)
 - **Red Teaming & Security Audits** (Testing and improving organizational security)
+
+#### Kali Resume Building
+- Learn **penetration testing** basics (Nmap, Metasploit, Wireshark)
+- Master **forensic analysis tools** (Autopsy, Volatility)
+- Understand **ethical hacking** methodologies (OSCP certification is a plus)
+- Gain experience in **security automation** with Bash/Python
+- Know how to **bypass security defenses** (legally and ethically!)
 
 ---
 
