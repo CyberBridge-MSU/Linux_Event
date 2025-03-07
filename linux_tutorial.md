@@ -8,7 +8,11 @@ Welcome to this beginner-friendly Linux tutorial, brought to you by **CyberBridg
 2. Directory Traversal
 3. Echo and File Manipulation
 4. Text Editing with vi and nano
-5. Additional Resources
+5. User and Permissions Management
+6. Installing and Managing Software
+7. Networking Basics
+8. Shell Scripting Introduction
+9. Additional Resources
 
 ---
 
@@ -116,10 +120,74 @@ nano myfile.txt
 
 ---
 
-## 5. Additional Resources
+## 5. User and Permissions Management
+To check file permissions, use:
+```bash
+ls -l
+```
+Example output:
+```
+drwxr-xr-x  2 user group 4096 Mar 5 10:00 Documents
+-rw-r--r--  1 user group  123 Mar 5 10:01 file.txt
+```
+
+### Changing Permissions
+```bash
+chmod 755 filename  # Owner can read/write/execute, others can only read/execute
+chmod u+x filename  # Give execute permission to the owner
+```
+
+### Changing Ownership
+```bash
+chown user:group filename  # Change the owner and group of a file
+```
+
+---
+
+## 6. Installing and Managing Software
+Ubuntu uses the `apt` package manager:
+```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install package_name
+```
+macOS uses `brew` (Homebrew):
+```bash
+brew install package_name
+```
+
+---
+
+## 7. Networking Basics
+Check network connection:
+```bash
+ping google.com
+```
+View IP address:
+```bash
+ip a  # Newer command
+```
+
+---
+
+## 8. Shell Scripting Introduction
+A simple script:
+```bash
+#!/bin/bash
+echo "Hello, Linux!"
+```
+Save it as `script.sh`, then make it executable:
+```bash
+chmod +x script.sh
+./script.sh
+```
+
+---
+
+## 9. Additional Resources
 - [Linux Journey](https://linuxjourney.com/)
 - [The Linux Command Line](https://linuxcommand.org/)
 - [Official Ubuntu Documentation](https://help.ubuntu.com/)
 
 ---
 Congratulations! You now have a solid foundation for working with Linux. Keep practicing and exploring!
+
